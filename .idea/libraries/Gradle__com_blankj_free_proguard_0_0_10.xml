@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.blankj:free-proguard-0.0.10">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/free-proguard-0.0.10.aar/97d4e7904f4e00ebbbdd3ca3355a8e79/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/free-proguard-0.0.10.aar/97d4e7904f4e00ebbbdd3ca3355a8e79/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/free-proguard-0.0.10.aar/72b232ff143d0b90cfeca7b799e8a22c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/free-proguard-0.0.10.aar/72b232ff143d0b90cfeca7b799e8a22c/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
